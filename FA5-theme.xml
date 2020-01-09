@@ -2,7 +2,7 @@
 <theme name="FA5" version="1822">
 	<properties>
 		<templateset><![CDATA[8]]></templateset>
-		<editortheme><![CDATA[buttons.css]]></editortheme>
+		<editortheme><![CDATA[FA5.css]]></editortheme>
 		<imgdir><![CDATA[themes/FA5]]></imgdir>
 		<logo><![CDATA[themes/FA5/logo.png]]></logo>
 		<tablespace><![CDATA[5]]></tablespace>
