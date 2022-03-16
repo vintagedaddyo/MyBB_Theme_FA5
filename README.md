@@ -1,6 +1,6 @@
 # MyBB_Theme_FA5
 
-FA5 v1.1
+FA5 v1.2
 » About:
 
 Current FA 5 library: fontawesome-free-5.15.4
@@ -10,7 +10,7 @@ This theme for MyBB enthusiasts is made simply to allow for users having trouble
 
 * For anyone having trouble with any of the tutorials supplied in that thread..., well, here is simply the default theme with all colors, and a good majority of the tutorials in that thread applied in it.
 
-FA5 v1.1
+FA5 v1.2
 » Installation:
 
 1.) After downloading the Theme unpack it (with 7-Zip for example)
@@ -26,11 +26,12 @@ FA5 v1.1
 You may not remove or change the MyBB copyright nor the Designed by: "Vintagedaddyo" statements in the footer of this theme's templates. You may use and modify this theme to your personal likings, but redistributing a modified version for download without including credit is prohibited, unless you have explicit written permission from "Vintagedaddyo", though you are allowed to redistribute a copy that has been modified and retains credit while adding your own credit as well.
 
 
-FA5 v1.1
+FA5 v1.2
 » Changelog:
 
 History:
 
+03/16/2022 - Theme updated for mybb 1.8.30
 10/30/2021 - Theme updated for mybb 1.8.29
 09/29/2021 - Theme updated for mybb 1.8.27
 07/10/2020 - Theme updated for mybb 1.8.24
