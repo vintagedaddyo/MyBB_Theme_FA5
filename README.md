@@ -19,7 +19,7 @@ FA5 v1.2
 4.) Search for the XML File titled "FA5-theme.xml" in the theme folder found on your computer and click the Button "Import Theme" this will upload the file from your computer to your forum.
 5.) Now have fun with your forum!
 
-FA5 v1.1
+FA5 v1.2
 » License:
 
 
@@ -31,6 +31,8 @@ FA5 v1.2
 
 History:
 
+
+09/23/2025 - Theme updated for mybb 1.8.39
 03/16/2022 - Theme updated for mybb 1.8.30
 10/30/2021 - Theme updated for mybb 1.8.29
 09/29/2021 - Theme updated for mybb 1.8.27
